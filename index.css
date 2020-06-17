@@ -135,10 +135,10 @@ section figure img{
     font-weight: 500;
 }
 .search input{
-margin-top: -841px;
+    margin-top: -841px;
     position: absolute;
     margin-left: -334px;
-    width: 374px;
+    width: 515px;
     height: 39px;
     border-radius: 5px;
     border-color: blue;
